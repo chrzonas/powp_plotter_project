@@ -3,6 +3,8 @@ package edu.iis.powp.features;
 import edu.iis.powp.app.Application;
 import edu.iis.powp.events.predefine.SelectClearPanelOptionListener;
 import edu.kis.powp.drawer.panel.DrawPanelController;
+import edu.kis.powp.drawer.panel.*;
+import edu.iis.powp.app.*;
 
 public class DrawerFeature {
 

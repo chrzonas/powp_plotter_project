@@ -3,6 +3,8 @@ package edu.iis.powp.events.predefine;
 import java.awt.Window;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
+import java.awt.event.*;
+import java.awt.*;
 
 public class SelectChangeVisibleOptionListener implements ActionListener {
 	private Window controlledWindow;

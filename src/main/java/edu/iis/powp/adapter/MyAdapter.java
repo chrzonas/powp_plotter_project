@@ -5,6 +5,8 @@ import edu.iis.powp.features.DrawerFeature;
 import edu.kis.powp.drawer.panel.DrawPanelController;
 import edu.kis.powp.drawer.shape.ILine;
 import edu.kis.powp.drawer.shape.LineFactory;
+import edu.kis.powp.drawer.panel.*;
+import edu.iis.client.plottermagic.*;
 
 /**
  * Plotter adapter to drawer with several bugs.
